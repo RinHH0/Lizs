@@ -16,4 +16,8 @@ a = '10'
 b = 2.0
 print(int(a)+int(b))
 
-print(b+str(t)+a2+v)
+a = '21'
+b = '67'
+
+
+stroka = 
